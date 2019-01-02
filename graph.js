@@ -32,8 +32,8 @@ let graph = new Dygraph(
 
     //highlightSeriesOpts: { strokeWidth: 3 },
     //showRangeSelector: true,
-    //showRoller: true,
-    //rollPeriod: 1,
+    showRoller: true,
+    rollPeriod: 1,
 
     labelsDiv: legend,
     legend: 'always',

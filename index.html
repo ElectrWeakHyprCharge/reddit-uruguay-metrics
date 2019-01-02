@@ -20,6 +20,8 @@
             <b class="link" onclick="showSubscriberGrowth()" tabindex="0">Subscriptores</b>
             |
             <b class="link" onclick="showActivity()" tabindex="0">Actividad</b>
+            ||
+            <label><input type="checkbox" onclick="graph.updateOptions({logscale: this.checked})">Escala&nbsp;logarítmica</label>
         </div>
         <div id="graph"></div>
 
