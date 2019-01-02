@@ -1,0 +1,1 @@
+Me fijé en archive.org y resulta que un alma religiosamente capturaba la front-page de /r/uruguay cada jueves... y me pareció que se podía aprovechar eso. Al final, no pude automatizar completamente la recolección de cuántos subscriptores tenía el sub, por lo que lo terminé haciendo pseudomanualmente, con `listurls.py`
